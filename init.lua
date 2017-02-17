@@ -30,12 +30,12 @@ local messages = {}
 
 -- Lava death messages
 messages.lava = {
-	" melted into a ball of fire.",
-	" thought lava was cool.",
-	" melted into a ball of fire.",
-	" couldn't resist that warm glow of lava.",
-	" dug straight down.",
-	" didn't know lava was hot."
+	" fondu dans une boule de feu. | melted into a ball of fire.",
+	" a pensé que la lave c'est cool. | thought lava was cool.",
+	" évaporé dans une boule de feu. | melted into a ball of fire.",
+	" n'a pu résisté à cette chaude lueur de lave. | couldn't resist that warm glow of lava.",
+	" a creusé direct vers le bas. | dug straight down.",
+	" ne savait pas que la lave c'est chaud. | didn't know lava was hot."
 }
 
 -- Drowning death messages
